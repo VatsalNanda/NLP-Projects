@@ -11,4 +11,4 @@ from sklearn.metrics import classification_report,confusion_matrix,accuracy_scor
 
 # Results
 
-<img width="677" alt="result1" src="https://github.com/VatsalNanda/NLP-Projects/blob/main/NLP-Sarcasm%20Detection/train_accuracy.png">
+<img width="677" alt="result1" src="https://github.com/VatsalNanda/NLP-Projects/blob/main/Stock%20sentiment%20analysis/result.png">
