@@ -5,6 +5,7 @@ Basic Project to detect sarcasm in news headline using Natural Language Processi
 # Dependencies
 
 import nltk
+
 from nltk.stem.porter import PorterStemmer
 
 # Results
