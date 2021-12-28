@@ -5,8 +5,11 @@ Predicting the stock sentiment using Natural Language Processing (NLP).
 # Importing Dependencies
 
 import pandas as pd
+
 from sklearn.feature_extraction.text import CountVectorizer
+
 from sklearn.ensemble import RandomForestClassifier
+
 from sklearn.metrics import classification_report,confusion_matrix,accuracy_score
 
 # Results
