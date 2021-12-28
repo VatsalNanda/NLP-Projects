@@ -5,7 +5,9 @@ Basic Project to classify spam/ham  using Natural Language Processing.
 # Dependencies
 
 import nltk
+
 from nltk.stem.porter import PorterStemmer
+
 from nltk.corpus import stopwords
 
 # Results
