@@ -5,3 +5,4 @@ NLP Projects-
 2) Spam / Ham Classifier
 3) Stock Sentiment Analysis
 4) Fake News Classifier
+5) NLP Language Detection
