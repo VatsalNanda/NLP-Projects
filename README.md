@@ -6,3 +6,4 @@ NLP Projects-
 3) Stock Sentiment Analysis
 4) Fake News Classifier
 5) NLP Language Detection
+6) Restraunt Reviews Sentiment Analysis
