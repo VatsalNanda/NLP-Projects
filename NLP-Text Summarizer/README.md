@@ -5,8 +5,11 @@ Text summarizer of a .txt file using Natural Language Processing(NLP).
 # Dependencies
 
 import nltk
+
 import scipy
+
 import netwrokx as nx
+
 
 # Results
 
