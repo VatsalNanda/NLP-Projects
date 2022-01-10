@@ -8,3 +8,4 @@ NLP Projects-
 5) NLP Language Detection
 6) Restraunt Reviews Sentiment Analysis
 7) Resume Scanner
+8) Text Summarizer
