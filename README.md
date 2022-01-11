@@ -9,3 +9,4 @@ NLP Projects-
 6) Restraunt Reviews Sentiment Analysis
 7) Resume Scanner
 8) Text Summarizer
+9) Spelling Correction
