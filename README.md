@@ -10,3 +10,5 @@ NLP Projects-
 7) Resume Scanner
 8) Text Summarizer
 9) Spelling Correction
+10) Keyword Extraction
+
